@@ -1,4 +1,3 @@
-# AIRI Scaling Toolkit
+# AIRI Configuration Guides & Reference Architectures
 
-This repo currently contains commands for reproducing our distributed training benchmark results. 
-We're working with AIRI customers now to finalize the python library that will replace these manual commands in the next few months.
+This repo  contains commands for reproducing our distributed training benchmark results. 
