@@ -1,0 +1,12 @@
+YOU NEED TO GENERATE A FILE NAMED "manifest" (no filename extension) BASED ON 
+THE DATA THAT IS ON YOUR FLASHBLADE. 
+
+THE "example-manifest" FILE WAS GENERATED ON A PURE FLASHBLADE AND CONTAINS 
+FILES NAMES FROM MANY IMAGENET SUB-DIRECTORIES.
+
+STEPS FOR CREATING YOUR VERSION OF THIS "manifest" FILE ARE IN THE "airi-libnfs" 
+INSTRUCTION DOC SEs SHOULD HAVE.
+
+
+
+Questions? Feel free to reach out to emily.watkins@purestorage.com.
